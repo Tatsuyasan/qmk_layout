@@ -13,5 +13,6 @@ This layout is inspired by miryoku layout and add a layer for french accent.
 
 ## Source
 - https://dev.to/sherlockcodes/customize-your-keyboard-s-layout-using-qmk-27fl
+- https://github.com/yannickjmt/qmk_firmware/blob/yannick-layout-nomac/keyboards/xd75/keymaps/yannick/keymap.c
 
 Currently ===> Work In Progress

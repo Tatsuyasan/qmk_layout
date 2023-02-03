@@ -26,7 +26,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define MASTER_RIGHT
 // #define EE_HANDS
 
-#define UNICODE_SELECTED_MODES UC_LNX, UC_WINC
+#define UNICODE_SELECTED_MODES UNICODE_MODE_LINUX, UNICODE_MODE_WINCOMPOSE
 
 #define IGNORE_MOD_TAP_INTERRUPT
 #define TAPPING_TERM 200
